@@ -48,4 +48,4 @@ module.exports = client;
 });
 
 // login bot
-client.login('MTA3NDM5OTI5NjE0MjcyMTAzNQ.G9aYCG.EgR-xdfa5PZUQzyiAKyz6xdLeA_Jfg_le4mmdk');
+client.login('WHAT YA LOOKING AT');
